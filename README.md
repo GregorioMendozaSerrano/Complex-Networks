@@ -4,8 +4,6 @@
 ### Author: Gregorio Mendoza Serrano
 ---
 
-# Feedback Exercise: Complex Networks
-
 To apply the basic concepts on Graph Theory and Complex Networks a practical case is analyzed in this exercise. During the exercise, data on football match results through history will be analyzed using the said concepts and conclusions will be drawn upon them.
 
 ## 1. Structure:
